@@ -13,6 +13,10 @@
     box-sizing: border-box;
 }
 
+html, body {
+    overflow-x: hidden;
+}
+
 body {
     direction: rtl;
     font-family: cairo-regular, sans-serif, Arial, Helvetica, sans-serif;
