@@ -476,6 +476,10 @@ footer .copyright p {
     .features .feature-media .d-flex h4 {
         border: none !important
     }
+    .features .feature-media .flex-shrink-0 {
+        display: flex;
+        justify-content: center;
+    }
     .contact h4 {
         margin-top: 30px;
     }
